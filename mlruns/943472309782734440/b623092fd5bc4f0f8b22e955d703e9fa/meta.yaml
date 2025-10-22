@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/b623092fd5bc4f0f8b22e955d703e9fa/artifacts
+end_time: 1761108479466
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: b623092fd5bc4f0f8b22e955d703e9fa
+run_name: big-frog-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108472980
+status: 3
+tags: []
+user_id: Vishal

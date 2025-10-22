@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/39a6f7c131254482975a4f3092fd5ce7/artifacts
+end_time: 1761108531901
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: 39a6f7c131254482975a4f3092fd5ce7
+run_name: monumental-chimp-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108531844
+status: 3
+tags: []
+user_id: Vishal

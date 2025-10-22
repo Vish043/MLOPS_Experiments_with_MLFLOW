@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/045d2f94b3434d9da02b9c5f15f64b1e/artifacts
+end_time: 1761108430974
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 045d2f94b3434d9da02b9c5f15f64b1e
+run_name: bold-kite-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108430925
+status: 3
+tags: []
+user_id: Vishal

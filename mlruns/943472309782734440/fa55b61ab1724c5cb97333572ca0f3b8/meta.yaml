@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/fa55b61ab1724c5cb97333572ca0f3b8/artifacts
+end_time: 1761108431143
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: fa55b61ab1724c5cb97333572ca0f3b8
+run_name: kindly-penguin-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108431089
+status: 3
+tags: []
+user_id: Vishal

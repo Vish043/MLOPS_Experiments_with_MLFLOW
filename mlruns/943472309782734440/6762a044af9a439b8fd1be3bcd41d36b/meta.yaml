@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/6762a044af9a439b8fd1be3bcd41d36b/artifacts
+end_time: 1761108072201
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 6762a044af9a439b8fd1be3bcd41d36b
+run_name: inquisitive-roo-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108063293
+status: 3
+tags: []
+user_id: Vishal

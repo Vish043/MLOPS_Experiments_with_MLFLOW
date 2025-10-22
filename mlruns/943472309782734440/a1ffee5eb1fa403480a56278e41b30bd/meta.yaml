@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/a1ffee5eb1fa403480a56278e41b30bd/artifacts
+end_time: 1761108475992
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: a1ffee5eb1fa403480a56278e41b30bd
+run_name: secretive-ox-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108475928
+status: 3
+tags: []
+user_id: Vishal

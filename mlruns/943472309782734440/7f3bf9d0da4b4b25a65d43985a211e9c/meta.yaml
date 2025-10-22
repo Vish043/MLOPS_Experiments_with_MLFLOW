@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/7f3bf9d0da4b4b25a65d43985a211e9c/artifacts
+end_time: 1761108476044
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 7f3bf9d0da4b4b25a65d43985a211e9c
+run_name: caring-gnu-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108475995
+status: 3
+tags: []
+user_id: Vishal

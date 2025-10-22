@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/88b8acc5429d478d930fd7af45cf33ae/artifacts
+end_time: 1761108531984
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: 88b8acc5429d478d930fd7af45cf33ae
+run_name: intrigued-crab-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108531926
+status: 3
+tags: []
+user_id: Vishal

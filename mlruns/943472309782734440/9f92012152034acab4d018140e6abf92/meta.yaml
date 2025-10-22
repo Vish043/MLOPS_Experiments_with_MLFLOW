@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/9f92012152034acab4d018140e6abf92/artifacts
+end_time: 1761108397917
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 9f92012152034acab4d018140e6abf92
+run_name: merciful-crow-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108397870
+status: 3
+tags: []
+user_id: Vishal

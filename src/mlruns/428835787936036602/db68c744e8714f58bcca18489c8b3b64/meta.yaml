@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/db68c744e8714f58bcca18489c8b3b64/artifacts
+end_time: 1761108532333
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: db68c744e8714f58bcca18489c8b3b64
+run_name: resilient-dog-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108532274
+status: 3
+tags: []
+user_id: Vishal

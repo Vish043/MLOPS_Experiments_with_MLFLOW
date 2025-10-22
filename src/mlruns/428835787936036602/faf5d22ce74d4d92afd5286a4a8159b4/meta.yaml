@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/faf5d22ce74d4d92afd5286a4a8159b4/artifacts
+end_time: 1761108532247
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: faf5d22ce74d4d92afd5286a4a8159b4
+run_name: bright-doe-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108532188
+status: 3
+tags: []
+user_id: Vishal

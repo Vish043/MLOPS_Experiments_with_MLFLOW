@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/96086901528146ed87463c46e2bf9755/artifacts
+end_time: 1761108431196
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 96086901528146ed87463c46e2bf9755
+run_name: powerful-fox-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108431147
+status: 3
+tags: []
+user_id: Vishal

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/acb8e1307363435b9b212562962e4fcc/artifacts
+end_time: 1761108431356
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: acb8e1307363435b9b212562962e4fcc
+run_name: unleashed-turtle-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108431304
+status: 3
+tags: []
+user_id: Vishal

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/70968fdf1ade4a3588cccd0601bc68dd/artifacts
+end_time: 1761108398191
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 70968fdf1ade4a3588cccd0601bc68dd
+run_name: popular-slug-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108398142
+status: 3
+tags: []
+user_id: Vishal

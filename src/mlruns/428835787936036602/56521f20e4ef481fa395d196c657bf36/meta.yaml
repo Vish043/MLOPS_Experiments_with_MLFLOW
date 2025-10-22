@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/56521f20e4ef481fa395d196c657bf36/artifacts
+end_time: 1761108535472
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: 56521f20e4ef481fa395d196c657bf36
+run_name: angry-toad-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108528410
+status: 3
+tags: []
+user_id: Vishal

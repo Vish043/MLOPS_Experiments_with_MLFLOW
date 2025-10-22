@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/8e83e864ae9942a983f40ac3930731a4/artifacts
+end_time: 1761108476559
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 8e83e864ae9942a983f40ac3930731a4
+run_name: nebulous-zebra-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108476510
+status: 3
+tags: []
+user_id: Vishal

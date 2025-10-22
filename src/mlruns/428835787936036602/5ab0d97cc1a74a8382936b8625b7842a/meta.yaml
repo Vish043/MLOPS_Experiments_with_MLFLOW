@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/5ab0d97cc1a74a8382936b8625b7842a/artifacts
+end_time: 1761108531547
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: 5ab0d97cc1a74a8382936b8625b7842a
+run_name: learned-rat-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108531482
+status: 3
+tags: []
+user_id: Vishal

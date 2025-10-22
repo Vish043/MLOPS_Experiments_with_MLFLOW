@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/15db0b0a777f4dbb9b8e61302447baeb/artifacts
+end_time: 1761108532076
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: 15db0b0a777f4dbb9b8e61302447baeb
+run_name: abundant-trout-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108532011
+status: 3
+tags: []
+user_id: Vishal

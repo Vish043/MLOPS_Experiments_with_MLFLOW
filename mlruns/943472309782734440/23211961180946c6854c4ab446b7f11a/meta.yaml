@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/23211961180946c6854c4ab446b7f11a/artifacts
+end_time: 1761108066935
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 23211961180946c6854c4ab446b7f11a
+run_name: clumsy-donkey-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108066873
+status: 3
+tags: []
+user_id: Vishal

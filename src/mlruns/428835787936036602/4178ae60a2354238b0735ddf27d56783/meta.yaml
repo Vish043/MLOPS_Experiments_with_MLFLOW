@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/4178ae60a2354238b0735ddf27d56783/artifacts
+end_time: 1761108531455
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: 4178ae60a2354238b0735ddf27d56783
+run_name: fun-midge-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108531387
+status: 3
+tags: []
+user_id: Vishal

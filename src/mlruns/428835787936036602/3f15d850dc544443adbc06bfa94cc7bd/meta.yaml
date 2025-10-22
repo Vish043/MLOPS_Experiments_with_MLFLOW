@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/3f15d850dc544443adbc06bfa94cc7bd/artifacts
+deleted_time: 1761109162038
+end_time: 1761109149425
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: deleted
+run_id: 3f15d850dc544443adbc06bfa94cc7bd
+run_name: flawless-smelt-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761109006369
+status: 4
+tags: []
+user_id: Vishal

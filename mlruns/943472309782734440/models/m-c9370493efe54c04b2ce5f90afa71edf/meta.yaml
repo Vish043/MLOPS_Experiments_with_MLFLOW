@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/models/m-c9370493efe54c04b2ce5f90afa71edf/artifacts
+creation_timestamp: 1761108398256
+experiment_id: '943472309782734440'
+last_updated_timestamp: 1761108401245
+model_id: m-c9370493efe54c04b2ce5f90afa71edf
+model_type: null
+name: random_forest
+source_run_id: 45f394c61a98469a8d03687ae6cf0d18
+status: 2
+status_message: null

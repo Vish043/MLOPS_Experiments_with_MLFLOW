@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/de6f9d61377245db9c6158eabfeaf8e5/artifacts
+end_time: 1761108397660
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: de6f9d61377245db9c6158eabfeaf8e5
+run_name: placid-cub-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108397615
+status: 3
+tags: []
+user_id: Vishal

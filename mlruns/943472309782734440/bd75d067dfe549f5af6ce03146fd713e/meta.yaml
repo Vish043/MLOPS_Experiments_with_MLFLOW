@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/bd75d067dfe549f5af6ce03146fd713e/artifacts
+end_time: 1761108397867
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: bd75d067dfe549f5af6ce03146fd713e
+run_name: traveling-cow-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108397818
+status: 3
+tags: []
+user_id: Vishal

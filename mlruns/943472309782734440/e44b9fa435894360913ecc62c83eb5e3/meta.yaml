@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/e44b9fa435894360913ecc62c83eb5e3/artifacts
+end_time: 1761108476304
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: e44b9fa435894360913ecc62c83eb5e3
+run_name: bright-bee-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108476258
+status: 3
+tags: []
+user_id: Vishal

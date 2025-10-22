@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/428835787936036602/c117b15f0dbd4610b7189dda00cedd4c/artifacts
+end_time: 1761108531817
+entry_point_name: ''
+experiment_id: '428835787936036602'
+lifecycle_stage: active
+run_id: c117b15f0dbd4610b7189dda00cedd4c
+run_name: omniscient-jay-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108531758
+status: 3
+tags: []
+user_id: Vishal

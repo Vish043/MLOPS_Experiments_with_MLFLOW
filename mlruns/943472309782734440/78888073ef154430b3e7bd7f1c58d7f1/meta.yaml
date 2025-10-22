@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vishal/OneDrive/Desktop/ML_ops/MLOPS_Experiments_with_MLFLOW/mlruns/943472309782734440/78888073ef154430b3e7bd7f1c58d7f1/artifacts
+end_time: 1761108476204
+entry_point_name: ''
+experiment_id: '943472309782734440'
+lifecycle_stage: active
+run_id: 78888073ef154430b3e7bd7f1c58d7f1
+run_name: efficient-mouse-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761108476157
+status: 3
+tags: []
+user_id: Vishal
