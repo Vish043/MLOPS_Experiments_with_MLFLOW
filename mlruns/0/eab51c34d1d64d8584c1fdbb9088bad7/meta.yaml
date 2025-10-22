@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eab51c34d1d64d8584c1fdbb9088bad7/artifacts
+end_time: 1761025343372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab51c34d1d64d8584c1fdbb9088bad7
+run_name: dashing-sheep-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761025343072
+status: 4
+tags: []
+user_id: Vishal

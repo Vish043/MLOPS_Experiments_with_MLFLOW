@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8ed0683e162145bc8a7cd9d9a8722a0c/artifacts
+end_time: 1761026918069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ed0683e162145bc8a7cd9d9a8722a0c
+run_name: magnificent-loon-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761026917371
+status: 3
+tags: []
+user_id: Vishal

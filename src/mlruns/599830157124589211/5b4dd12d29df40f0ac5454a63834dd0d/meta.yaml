@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/599830157124589211/5b4dd12d29df40f0ac5454a63834dd0d/artifacts
+end_time: 1761106473117
+entry_point_name: ''
+experiment_id: '599830157124589211'
+lifecycle_stage: active
+run_id: 5b4dd12d29df40f0ac5454a63834dd0d
+run_name: agreeable-cow-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761106463163
+status: 3
+tags: []
+user_id: Vishal

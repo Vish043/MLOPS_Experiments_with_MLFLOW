@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/322410731943366916/30675ded5e224a1abeea3b1729cd8335/artifacts
+end_time: 1761062954151
+entry_point_name: ''
+experiment_id: '322410731943366916'
+lifecycle_stage: active
+run_id: 30675ded5e224a1abeea3b1729cd8335
+run_name: exultant-gull-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761062943357
+status: 3
+tags: []
+user_id: Vishal

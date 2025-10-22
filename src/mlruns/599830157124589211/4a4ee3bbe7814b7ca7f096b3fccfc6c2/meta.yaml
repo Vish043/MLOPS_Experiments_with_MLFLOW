@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/599830157124589211/4a4ee3bbe7814b7ca7f096b3fccfc6c2/artifacts
+end_time: 1761105237261
+entry_point_name: ''
+experiment_id: '599830157124589211'
+lifecycle_stage: active
+run_id: 4a4ee3bbe7814b7ca7f096b3fccfc6c2
+run_name: skittish-hare-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761105233640
+status: 3
+tags: []
+user_id: Vishal

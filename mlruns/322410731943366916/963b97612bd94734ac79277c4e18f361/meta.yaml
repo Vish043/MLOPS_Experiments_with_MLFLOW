@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322410731943366916/963b97612bd94734ac79277c4e18f361/artifacts
+deleted_time: 1761063013228
+end_time: 1761062866037
+entry_point_name: ''
+experiment_id: '322410731943366916'
+lifecycle_stage: deleted
+run_id: 963b97612bd94734ac79277c4e18f361
+run_name: capricious-mouse-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761062865471
+status: 4
+tags: []
+user_id: Vishal
